@@ -51,6 +51,12 @@
   color: #212529;
 }
 
+.btn-primary-c {
+  background-color: #238bb3 !important;
+  color: #fff !important;
+}
+
+
 .carousel-caption p, .carousel-caption h3, .carousel-caption li {
   color: #fff;
 }
@@ -81,6 +87,10 @@
 
 .order-button:hover {
   color: #fff;
+}
+
+.j-color {
+  background: #ffd432 !important;
 }
 
 ul.social-buttons {
